@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Giphy Api's</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-tour/0.11.0/css/bootstrap-tour.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+</head>
+
+<body>
+    <div class="header">
+        <div class="logo" alt="Gifs API">
+            <a href="index.html"><img class="logo-desktop" src="assets/images/logo.png" alt="Logo"/></a>
+            <a href-"index.html"><img class="logo-mobile" src="assets/images/logo-cloud.png" alt="Logo"/></a>
+        </div>
+        <div class="favorites">
+            <a href="favorites.html"><img src="assets/images/heart_outline-icon.png"></a>
+        </div>
+        <div id="about" class="about">
+            <a href="about.html"> <p data-container="body" data-toggle="popover" data-placement="bottom" data-content="Click on About and learn
+            step-by-step on how this amazing website works!"> About </p></a>
+        </div>
+        <div class="about">
+            <a href="index.html"> <p> Home </p></a>
+        </div>
+    </div>
+
+    
+    <section class="search-content">
+        <!-- Submit Button -->
+        <form id="gifs-form">
+            <input type="text" id="gifs-input"  placeholder="Search Animals" autofocus />
+            <input id="add-button" type="submit" value="Continue &#8594;" >
+        </form>
+         <!-- New button will be here  -->
+        <div id="buttons-view">
+        </div>
+      
+    </section>
+    <div class="times-ten">
+                <img id="times-ten" class="hide" src="assets/images/x10.png"height="30px">
+            </div>
+    
+    <section class="main-content container">
+        
+         <div id="gifs-list">  </div>
+         <div id="load-more" class="hide">
+             <button> Load More +</button>
+             <a class="top-button" href="#">&#8593;</a>
+         </div>
+
+    </section>     
+
+            <footer>
+               <p class="copy"> &copy; Copyright 2018 Giovanna Perina - Gifs API</p>
+             </footer> 
+
+
+    <!-- Javacript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-tour/0.11.0/js/bootstrap-tour.min.js"></script>
+    <script src="assets/javascript/app.js"></script>
+   
+
+</body>
+</html>
