@@ -9,13 +9,13 @@ The Gifs API was created with the intention to create an awesome experience to t
 To generate gifs, click on the buttons already premade or choose an animal of your choice on search bar. To delete, double click on the button. 
 To animate, double click on the gif of your choice!
 
-<img src="assets/images/dbGif.gif" width="400px" height="300px">
+<img src="assets/images/dbGif.gif" width="600px" height="450px">
 
 ---
 
 On the home page, if you would like to save a gif click on the outline heart. To see all your favorited gifs go to the Favorites Page (top right hand corner). The gifs are save on Local Storage.
 
-![logo](assets/images/favGif.gif)
+<img src="assets/images/favGif.gif" width="600px" height="450px">
 
 ---
 
