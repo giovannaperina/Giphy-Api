@@ -1,5 +1,4 @@
-
-![logo](assets/images/logo.png)
+# Gifs API 
 
 ## Overview
 The Gifs API was created with the intention to create an awesome experience to the user. All the GIFS are provided by Giphy.com, which is the largest GIF library in the world. Gifs API also offers the Favorites Page for you to save the funniest GIFS ever! Have Fun! 
@@ -10,7 +9,7 @@ The Gifs API was created with the intention to create an awesome experience to t
 To generate gifs, click on the buttons already premade or choose an animal of your choice on search bar. To delete, double click on the button. 
 To animate, double click on the gif of your choice!
 
-![logo](assets/images/dbGif.gif)
+<img src="assets/images/dbGif.gif" width="400px" height="300px">
 
 ---
 
@@ -20,7 +19,7 @@ On the home page, if you would like to save a gif click on the outline heart. To
 
 ---
 
-* Please visit Gifs API, on About Page to learn more features.
+* *Please visit Gifs API, on About Page to learn more features.*
 
 ![logo](assets/images/aboutPage.png)
 
